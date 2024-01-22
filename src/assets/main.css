@@ -1,0 +1,55 @@
+#bg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  }
+  #firstContainer {
+  background-color:pink ;
+  }
+  #userForm {
+  text-align: center;
+  }
+  label{
+  display: inline-block;
+  text-align: right;
+  width:100px;
+  }
+  #thirdContainer {
+  text-align: center;
+  }
+  table {
+  border-collapse: collapse;
+  /* border collapse to join the borders */
+  width: 100%;
+  }
+  th,td {
+  border: 5px solid #dddddd;
+  text-align: center;
+  }
+  #totalProfit{
+  background-color: pink;
+  }
+  .titleOfDiv{
+  background-color: rgb(255, 167, 202);
+  }
+  h1{
+  text-align: center;
+  }
+  #menu{
+  text-align: center;
+  }
+  input:hover {
+  box-shadow: 3px 3px purple;
+  border-radius: 5px
+  }
+  button.bwt{
+  color:white;
+  background-color: rgb(255, 94, 0);
+  }
+  .bwt:hover {
+  box-shadow: 3px 3px purple;
+  border-radius: 1px;
+  outline: purple;
+  }
+  
